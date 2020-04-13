@@ -67,20 +67,20 @@ html, body {
 
 @font-face {
     font-family: "roboto";
-    src: url("/fonts/Roboto-Regular.ttf" ) format("truetype");
+    src: url("/mcubedpc/fonts/Roboto-Regular.ttf" ) format("truetype");
 
 }
 
 
 @font-face {
     font-family: "roboto-black";
-    src: url("/fonts/Roboto-Black.ttf") format("truetype");
+    src: url("/mcubedpc/fonts/Roboto-Black.ttf") format("truetype");
 
 }
 
 @font-face {
     font-family: "roboto-bold";
-    src: url("/fonts/Roboto-Bold.ttf") format("truetype");
+    src: url("/mcubedpc/fonts/Roboto-Bold.ttf") format("truetype");
 
 }
 
