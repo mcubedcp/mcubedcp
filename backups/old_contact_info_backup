@@ -1,0 +1,48 @@
+<!-- Backup for contact info -->
+
+<div id="contact">
+  <div id="inner-box">
+    <div class="row">
+      <div class="container announcement">
+        <div class="col-xs-1">
+        </div>
+        <div class="row">
+          <div class="col-xs-11">
+            <p class = "subtitle"> Get in touch with us </p>
+          </div>
+        </div>
+      
+      <div class="container announcement">
+        <div class="row">
+
+          <div class="col-xs-1">
+          </div>
+          <div class="col-xs-1 mail">
+            <a href= "mailto: neal.doshi@m3capital-partners.com?subject=Website Inquiry">
+              <img border="0" src="images/close-envelope.png" width="50" height="50" padding-right = "50px">
+            </a>
+          </div>
+          <div class="col-xs-1">
+            <a href= "https://www.linkedin.com/company/m-cubed-capital-partners/about/">
+              <img border="0" src="images/linkedin-logo.png" width="50" height="50">
+            </a>
+          </div>
+        </div>
+          <div class="container announcement">
+            <div class="row">
+              <div class="col-xs-1">
+              </div>
+              <div class="col-xs-10">
+                <p class = "h"> <span>Email:</span> neal.doshi@m3capital-partners.com</p>
+                <p class = "h"> <span>Phone:</span> (248) 247-3045 </p>
+                <p class = "headquarters"> <b> Headquarters:</b> <p>
+                <p class = "info"> 5755 New King Drive, Suite 210 </p>
+                <p class = "info"> Troy, MI 48098 </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
